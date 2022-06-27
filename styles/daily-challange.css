@@ -1,0 +1,100 @@
+main{
+
+  width: 1200px;
+  margin: 100px auto 100px auto;
+  background-color: burlywood;
+  border-radius: 20px;
+  padding:50px ;
+  border: 2px solid black;
+  box-shadow: 5px 5px 5px;
+  box-shadow: 5px 5px 5px;
+  
+}
+
+#body-id {
+  text-align: center;  
+  font-size: 1cm;
+  font-weight: bold;
+  font-family:sans-serif;
+  font-family:sans-serif;
+ 
+
+}
+
+    a{
+        
+        color:blackk;
+        font-family:sans-serif;
+        text-decoration: overline;
+        margin-top: 1cm;
+        font-weight: bold;
+        font-weight: bold;
+
+      }
+    a:hover{
+         color:rgb(255, 0, 81);
+        text-decoration:underline;
+        background-color:aqua;
+        background-color:aqua;
+        margin-top: 1cm;
+        font-weight: bold
+    }
+
+#today-challange { color:black;
+font-family:  Impact;
+font-size: 1cm;
+margin-top: 1cm;
+font-weight: bold
+}
+
+#header-new {color: black;;
+font-family:Impact;
+font-size: 1cm;
+margin-top: 1cm;
+
+}
+
+#head-new{
+
+  font-weight: bolder;
+  font-size:20px ;
+}
+
+#header-new1{
+font-family:Impact;
+color:black;
+font-size: 1cm;
+text-align: center;
+text-align: center;
+text-align: center;
+margin-top: 1cm;
+font-weight: bold
+}
+#what-will { 
+    font-family:Impact;
+    color: black;
+    font-size: 1cm;
+   margin-top: 1cm;
+   font-weight: bold
+}
+
+
+
+#trophy {
+   width: 200px;
+   height:200px;
+   border-radius: 100px;
+   border-radius: 100px;
+   display: inline-block;
+   margin-top: -140px;
+   border: 2px solid black ;
+
+}
+
+
+#learning-link{
+
+    color: black;
+
+
+}
